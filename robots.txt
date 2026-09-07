@@ -1,0 +1,8 @@
+# ⚠️ Sustituye rotor.es por tu dominio real.
+User-agent: *
+Allow: /
+
+Disallow: /tools/
+Disallow: /solicitudes.log
+
+Sitemap: https://rotor.es/sitemap.xml
